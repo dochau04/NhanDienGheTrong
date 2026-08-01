@@ -1,8 +1,5 @@
 # Real-time Chair Occupancy Detection (Nhận Diện Trạng Thái Ghế Ngồi) 🪑
 
-**Vai trò:** AI/Computer Vision Developer  
-**Năm thực hiện:** 2025  
-
 ---
 
 ## 📝 Tổng quan dự án
